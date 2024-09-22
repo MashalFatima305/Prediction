@@ -1,0 +1,6 @@
+conda install -c conda-forge streamlit
+conda install pandas
+conda install -c plotly plotly
+conda install numpy
+
+streamlit run pred.py
